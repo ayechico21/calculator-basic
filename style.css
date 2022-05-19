@@ -10,7 +10,7 @@ body {
   justify-content: center;
 }
 
-.box {
+.calc {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -23,8 +23,8 @@ body {
   width: 100%;
   background-color: black;
   text-align: right;
-  font-size: 1.8em;
   color: white;
+  font-size: 2rem;
 }
 .calc-row {
   flex: 1;
@@ -36,10 +36,10 @@ body {
 
 .calc-btn {
   width: 24.5%;
-  font-size: 1.8em;
   font-family: monospace;
   cursor: pointer;
   background-color: #dedede;
+  font-size: 2rem;
 }
 
 .calc-btn:last-child {
