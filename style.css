@@ -53,6 +53,10 @@ body {
 .btn-zero {
   width: 75%;
 }
+
+.calc-btn:hover{
+  background-color: #ebebeb;
+}
 .calc-btn:last-child:hover {
   background-color: #dfb07e;
 }
